@@ -1,0 +1,13 @@
+package com.example.dagger2.Summary
+
+/*
+
+if you wanna pass the runtime values in dependencies then we use Factory in Component...
+
+remember when you using the Factory you can't create the component with builder class
+you should use the Factory...
+
+Factory is interface...
+you have to create the function which holds the runtime value... for dependencies...
+
+ */
